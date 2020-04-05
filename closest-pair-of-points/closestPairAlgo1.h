@@ -1,5 +1,4 @@
-// Andrew Stanton
-// 1207210559
+
 
 
 struct simplePair* closestPair1(int *Lx, int *Ly, struct simplePair *pair1, int nP) {	

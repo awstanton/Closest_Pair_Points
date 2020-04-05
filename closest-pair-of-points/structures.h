@@ -1,5 +1,4 @@
-// Andrew Stanton
-// 1207210559
+
 
 struct originalPoint { // represents points in the original, unsorted list
 	int xValue;

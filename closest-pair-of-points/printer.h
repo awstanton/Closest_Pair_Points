@@ -1,5 +1,3 @@
-// Andrew Stanton
-// 1207210559
 
 
 void printXList(struct point *xList, int startIndex, int size) { // prints out points in the x-list, used for debugging

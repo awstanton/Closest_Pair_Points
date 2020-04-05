@@ -1,5 +1,4 @@
-// Andrew Stanton
-// 1207210559
+
 
 #include <fstream>
 #include <iostream>
